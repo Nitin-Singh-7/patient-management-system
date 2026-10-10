@@ -1,0 +1,7 @@
+### GET request to example server
+GET https://localhost:4000/patients
+    ?generated-in=IntelliJ IDEA
+
+###
+
+### 1:20:46
